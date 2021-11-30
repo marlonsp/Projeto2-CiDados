@@ -16,9 +16,9 @@ Papel de cada integrante no trabalho:
 - Marlon: Importou o dataset usado no projeto, criou a divisão de treinamento e teste para cada modelo proposto, aplicou a validação cruzada para os métodos, plotou os resultados e auxiliou na descrição dos métodos e conclusão.
 
 Arquivos contidos no repositório:
--owid-covid-data.xlsx: Dataset completo com informações retiradas do site: https://ourworldindata.org/covid-deaths
--covid-data-brazil.xlsx: Dataset com recorte de informações do Brasil (país de estudo do projeto).
--README.md: Arquivo com informações sobre o projeto (papel de cada integrante do grupo e arquivos contidos no repositório)
--Projeto2-CDados.ipynb: Relatório com explicação detalhada da análise, conclusões e referências para fundamentação teórica.
--imagens: Pasta com as imagens usadas no relatório.
+- owid-covid-data.xlsx: Dataset completo com informações retiradas do site: https://ourworldindata.org/covid-deaths
+- covid-data-brazil.xlsx: Dataset com recorte de informações do Brasil (país de estudo do projeto).
+- README.md: Arquivo com informações sobre o projeto (papel de cada integrante do grupo e arquivos contidos no repositório)
+- Projeto2-CDados.ipynb: Relatório com explicação detalhada da análise, conclusões e referências para fundamentação teórica.
+- imagens: Pasta com as imagens usadas no relatório.
 
